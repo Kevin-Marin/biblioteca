@@ -2,7 +2,7 @@ const biblioteca = [];
 let livro = {};
 let opcao = 0;
 
-console.log("1. para inserir, 2. para remover, 3. visualizar");
+console.log("1. para inserir");
 console.log("2. para remover");
 console.log("3. visualizar");
 
