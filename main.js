@@ -6,7 +6,6 @@ console.log("1. para inserir, 2. para remover, 3. visualizar");
 console.log("2. para remover");
 console.log("3. visualizar");
 
-
 process.stdin.on("data", function (data) {
   let entrada_usuario = data.toString().trim();
 
